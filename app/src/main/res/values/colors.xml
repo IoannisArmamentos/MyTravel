@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorTrans">#99000000</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="gray_light">#CCCCCC</color>
+    <color name="gray_very_light">#e0e0e0</color>
+    <color name="gray_deep">#666666</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="activity_background">#EEEEEE</color>
+    <color name="transparent">#00000000</color>
+    <color name="main_background">#eeeeee</color>
+    <color name="google_assistant_background">#F5F5F5</color>
+</resources>

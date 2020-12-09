@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyTravel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="isonline">Internet access is required.\n Please enable WiFi or Data Service(3G/4G).</string>
+    <string name="unabletoconnect">Unable to Connect</string>
+    <string name="settings">Settings</string>
+    <string name="app_description">My Travel Application</string>
+    <string name="exit">Exit</string>
+
+    <string name="share_text">"Το My Travel τώρα διαθέσιμο και για Android! Κατέβασε το από εδώ: PLAYSTORE_LINK"</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_contact">Contact</string>
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_about">About</string>
+    <string name="nav_item_share">Share</string>
+    <string name="nav_item_exit"> Exit</string>
+    <string name="title_activity_main_menu">My Travel</string>
+
+    <!-- String related to About -->
+    <string name="title_activity_about">About</string>
+    <string name="about_version">Version: </string>
+    <string name="about_email_intent">My Travel</string>
+    <string name="about_not_found_email">No email application was found</string>
+    <string name="about_card1_title">My Travel</string>
+    <string name="about_card1_message">Thanks for using our application!</string>
+    <string name="about_card2_title">Our development team</string>
+    <string name="about_google_play">Google Play Store</string>
+    <string name="about_email">E-mail</string>
+
+    <!-- String related to Contact -->
+    <string name="contact1">Ways to contact us</string>
+    <string name="contact2">✆ Phone: 22730 32444</string>
+    <string name="contact3">☎ OFFICE: 22730 33333</string>
+    <string name="contact4">📱 SMS: 698 663 1380</string>
+    <string name="contact5">\@ Email:  icsd16223@icsd.aegean.gr</string>
+    <string name="contact6">\@ Email2: icsd12065@icsd.aegean.gr</string>
+    <string name="contact7">\@ Email3: icsd13192@icsd.aegean.gr</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">297017271020191</string>
+    <string name="fb_login_protocol_scheme">fb297017271020191</string>
+</resources>

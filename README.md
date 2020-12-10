@@ -21,18 +21,16 @@ A sample and simple Tourist Guide app for Android, using a local database. The u
 ![Contact](https://lh6.googleusercontent.com/_-X_w6nIyIFGyOJcPv4qvhxvI0gFTYh2XPoPOSDsAS4XSfbvXTc4tEWPhx9H8uIjuKQIiWO7K1bGAg=w1825-h1297-rw)
 
 
-**Info**
+**About**
 
-![Info](https://lh5.googleusercontent.com/X_vI6Sae_CQn0C1iwP3lqaBd4KteKSDBKxpQhdiHY5rADa8dCSMq04sqzDtHqeTZjULHHkeI8-yJew=w1825-h1297-rw)
+![About](https://lh5.googleusercontent.com/X_vI6Sae_CQn0C1iwP3lqaBd4KteKSDBKxpQhdiHY5rADa8dCSMq04sqzDtHqeTZjULHHkeI8-yJew=w1825-h1297-rw)
 
 
 **Database Country**
 
-![Producers](https://lh5.googleusercontent.com/pKeARLFgU-I53fcUtA1-OwgBieFGnRCHC_4016dkmcpZoWrxhigjx5fkJj519x8RkoE4NZ5qabU5cw=w1825-h1297)
+![Database Country](https://lh5.googleusercontent.com/pKeARLFgU-I53fcUtA1-OwgBieFGnRCHC_4016dkmcpZoWrxhigjx5fkJj519x8RkoE4NZ5qabU5cw=w1825-h1297)
 
 
 **Database City**
 
-![Producers](https://lh4.googleusercontent.com/qnAVVmK5HPmyXkQjI9SHCSjbvtgiuV3Ar5fNW-0X2dmufwHdnd-q2eU4TEdDZelXLI-morDHnh584g=w1825-h1297)
-
-
+![Database City](https://lh4.googleusercontent.com/qnAVVmK5HPmyXkQjI9SHCSjbvtgiuV3Ar5fNW-0X2dmufwHdnd-q2eU4TEdDZelXLI-morDHnh584g=w1825-h1297)
